@@ -1,7 +1,7 @@
 package main
 import (
 	"fmt"
-	_"github.com/go-sql-driver/mysql" //_ ejecuta solo el main del paquete
+	_"github.com/go-sql-driver/mysql" //_ ejecuta sin que lo llame
 	"github.com/jinzhu/gorm"
 )
 
